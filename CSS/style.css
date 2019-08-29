@@ -1,0 +1,65 @@
+.footer-p {
+    color:#eee;
+    text-align: center;
+}
+
+.nav-bg {
+    background-color: red;
+}
+
+.btn-primary {
+    background-color: red;
+}
+
+.pad {
+    padding: 45px 0;
+}
+
+.side-image {
+    padding: 10px;
+    border: 4px solid red;
+}
+
+.pg-pad {
+    padding: 15px;
+}
+
+.convertion {
+    background-color:#222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.about-section {
+    margin: 75px auto;
+}
+
+.footer {
+    padding: 15px 0;
+    background-color: #333;
+    color: #eee
+}
+
+.about-section {
+    margin: 75px auto;
+    background-color: white;
+    padding: 20px;
+}
+
+.abt-image {
+    
+}
+
+.about-section p {
+    text-align: justify;
+    padding: 10px;
+    
+}
+
+.bg-image {
+    background-image: url(../IMG/HOME1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
